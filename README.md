@@ -17,6 +17,8 @@ This release includes model weights and starting code for pre-trained and instru
 
 This repository is a minimal example of loading Llama 3 models and running inference. For more detailed examples, see [llama-recipes](https://github.com/facebookresearch/llama-recipes/).
 
+This is my testing llama repo for amylinjiang
+
 ## Download
 
 To download the model weights and tokenizer, please visit the [Meta Llama website](https://llama.meta.com/llama-downloads/) and accept our License.
